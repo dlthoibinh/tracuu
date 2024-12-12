@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Apps Script</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 50px;
+    }
+    a {
+      font-size: 1.5em;
+      color: blue;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Google Apps Script</h1>
+  <p>Click the link below to access the script:</p>
+  <a href="https://script.google.com/macros/s/AKfycbzAM1Y21sXAZlOID2WVzQX8X7cMyuZx3uZrBrBOI3dg4qVbx4fEwR-gkN2N86lTe8_InA/exec" target="_blank">
+    Open Google Apps Script
+  </a>
+</body>
+</html>
